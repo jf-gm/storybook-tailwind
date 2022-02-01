@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #83a5ee;
+  --secondary-color: #5b8af0;
+  --tertiary-color: #be83ee;
+  --primary-hover-color: #99b6f5;
+  --secondary-hover-color: #6b95f0;
+  --tertiary-hover-color: #c896f2;
+  --primary-press-color: #6e93e4;
+  --secondary-press-color: #4d7ce1;
+  --tertiary-press-color: #a667da;
+}

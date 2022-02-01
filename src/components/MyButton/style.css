@@ -1,0 +1,55 @@
+.bg-button-primary {
+  background-color: var(--primary-color);
+}
+
+.bg-button-primary:hover {
+  background-color: var(--primary-hover-color);
+}
+
+.bg-button-primary:active {
+  background-color: var(--primary-press-color);
+}
+
+.bg-button-secondary {
+  background-color: var(--secondary-color);
+}
+
+.bg-button-secondary:hover {
+  background-color: var(--secondary-hover-color);
+}
+
+.bg-button-secondary:active {
+  background-color: var(--secondary-press-color);
+}
+
+.bg-button-tertiary {
+  background-color: var(--tertiary-color);
+}
+
+.bg-button-tertiary:hover {
+  background-color: var(--tertiary-hover-color);
+}
+
+.bg-button-tertiary:active {
+  background-color: var(--tertiary-press-color);
+}
+
+.button-xs {
+  font-size: 12px;
+}
+
+.button-sm {
+  font-size: 14px;
+}
+
+.button-md {
+  font-size: 16px;
+}
+
+.button-lg {
+  font-size: 18px;
+}
+
+.button-xl {
+  font-size: 20px;
+}
